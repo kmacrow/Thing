@@ -1,7 +1,7 @@
 Thing
 =====
 
-A microblog-meets-cloud-storage platform.
+A microblogging-meets-cloud-storage platform.
 
 You have lots of things. <i>Thing</i> is a brutally minimalist live feed of your <i>things</i>: pictures, documents, links, projects, notes, blog posts, LOL cats, puppy pictures,
 and whatever else you'd like to feed it. You can create new and exciting things, curate your old existing things in new ways, and share all of your things with other people. If you're not into
